@@ -81,18 +81,13 @@
   width: 90%;
   height: 200px; 
   background-color: green;
-
-
-  
 } 
 .yellow3 {
   width: 90%; 
   height: 200px; 
   background-color: gold; 
   justify-self: end;
-
 } 
-
 .blue3 {
   width: 100%;
   height: 100px; 
