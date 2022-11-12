@@ -235,7 +235,7 @@ footer .social img{
     /* box-shadow: 5pc 5px 10px #6f7364; */
 }
 .r_card_img:hover{
-    transform: scale(1.3);
+    transform: scale(1.1);
 }
 
 .salmon_card, .gray_canyon_card, .canyon_az_card{
@@ -339,11 +339,4 @@ footer .social img{
         width: 90%;
     }
     /* END media rivers style */
-
-
-
-
-
-
-
 }
