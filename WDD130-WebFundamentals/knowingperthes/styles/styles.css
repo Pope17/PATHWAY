@@ -25,6 +25,11 @@ header{
     display: grid;
     grid-template-columns: 150px auto;
 }
+.navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
 
 .logo{
     width: 80px;
